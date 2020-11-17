@@ -12,5 +12,5 @@
 [Linux Survival 2nd_quiz](./task_linux_cli/2nd_quiz.png)\
 [Linux Survival 3rd_quiz](./task_linux_cli/3rd_quiz.png)\
 [Linux Survival 4th_quiz](./task_linux_cli/4th_quiz.png)\
-*I have to improve mu skills about Linux in future. Got new knowledge about Linux commands and HTTP, HTTPS protocols. Thanks!*
+*I have to improve my skills about Linux in future. Got new knowledge about Linux commands and HTTP, HTTPS protocols. Thanks!*
 
