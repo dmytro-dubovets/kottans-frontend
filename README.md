@@ -14,6 +14,6 @@
 [Linux Survival 4th_quiz](./task_linux_cli/4th_quiz.png)\
 *I have to improve my skills about Linux in future. Got new knowledge about Linux commands and HTTP, HTTPS protocols. Thanks!*
 ## Git Collaboration
-4. Finished the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)\
+4. Finished the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
 5. Completed all levels at [learngitbranching.js.org](https://learngitbranching.js.org/). Screenshots were added t these sections: [Learning git level 1st](./screenshots/git/learning_git_1st.png), [Learning git level 2nd](./screenshots/git/learning_git_2nd.png).\
 *I got some experince and studied new Git commands.*
